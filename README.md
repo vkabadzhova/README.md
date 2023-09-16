@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Villy</h1>
-<h3 align="center">Student @ELSYS Technology High School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkabadzhova&label=Profile%20views&color=0e75b6&style=flat" alt="vkabadzhova" /> </p>
 
-- 🔭 I’m currently working on **Equilibrium - my diploma thesis**
-
-- 🌱 I’m currently learning **Rust**
-
-- 📫 How to reach me **vkabadzhova@gmail.com**
+📫 How to reach me: **vkabadzhova@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
